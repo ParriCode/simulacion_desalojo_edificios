@@ -1,0 +1,8 @@
+/home/cesar/Clase/Simulación/Practica/.devenv/bootstrap/bootstrapLib.nix
+/home/cesar/Clase/Simulación/Practica/.devenv/bootstrap/default.nix
+/home/cesar/Clase/Simulación/Practica/.devenv/bootstrap/resolve-lock.nix
+/home/cesar/Clase/Simulación/Practica/devenv.local.nix
+/home/cesar/Clase/Simulación/Practica/devenv.lock
+/home/cesar/Clase/Simulación/Practica/devenv.nix
+/home/cesar/.config/nixpkgs/overlays
+/home/cesar/.config/nixpkgs/overlays.nix
