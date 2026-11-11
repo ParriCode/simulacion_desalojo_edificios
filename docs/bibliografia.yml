@@ -15,5 +15,62 @@ kuligowski2015stairs:
     - Spearpoint, Michael
   date: 2015-01
   organization: National Institute of Standards and Technology
-  serial-number: NIST Technical Note 1839
-  doi: 10.6028/NIST.TN.1839
+  note: NIST Technical Note 1839
+  serial-number:
+    doi: 10.6028/NIST.TN.1839
+
+kuligowski2010incendio:
+  type: report
+  title: Occupant Behavior in a High-rise Office Building Fire
+  author:
+    - Kuligowski, Erica D.
+    - Hoskins, Bryan L.
+  date: 2010-06
+  organization: National Institute of Standards and Technology
+  note: NIST Technical Note 1664
+  url: https://www.nist.gov/system/files/documents/el/fire_research/TN1664.pdf
+
+averill2005ocupantes:
+  type: conference
+  title: Occupant Behavior, Egress, and Emergency Communications
+  author: Averill, Jason D.
+  date: 2005-09-13
+  parent:
+    type: proceedings
+    title: Technical Conference on the Federal Building and Fire Safety Investigation of the World Trade Center Disaster
+  url: https://www.nist.gov/system/files/documents/2017/05/09/1Averill.pdf
+
+sagun2013salidas:
+  type: article
+  title: "Designing Buildings to Cope with Emergencies: Findings from Case Studies on Exit Preferences"
+  author:
+    - Sagun, Aysu
+    - Anumba, Chimay J.
+    - Bouchlaghem, Dino
+  date: 2013-06-18
+  parent:
+    type: periodical
+    title: Buildings
+    volume: 3
+    issue: 2
+  page-range: 442-461
+  serial-number:
+    doi: 10.3390/buildings3020442
+
+galea2012wtc:
+  type: article
+  title: "The UK WTC 9/11 evacuation study: An overview of findings derived from first-hand interview data and computer modelling"
+  author:
+    - Galea, E. R.
+    - Hulse, L.
+    - Day, R.
+    - Siddiqui, A.
+    - Sharp, G.
+  date: 2012
+  parent:
+    type: periodical
+    title: Fire and Materials
+    volume: 36
+  page-range: 501-521
+  serial-number:
+    doi: 10.1002/fam.1070
