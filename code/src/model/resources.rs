@@ -1,5 +1,8 @@
 /// Recursos del sistema
-
+pub struct Path {}
+pub struct Stairs {
+    capacity: u32,
+}
 pub struct Door {
     capacity: u32,
 }
