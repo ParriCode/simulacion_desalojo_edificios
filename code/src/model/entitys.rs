@@ -9,7 +9,7 @@ enum PersonState {
     Evacuated,
 }
 
-struct Person {
+pub struct Person {
     id: u32,
     pos: (f32, f32, u32), //> x , y , piso
     state: PersonState,   //> Esperando , evacuando y evacuado
